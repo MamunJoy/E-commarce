@@ -1,7 +1,7 @@
 .container{
     margin-bottom: 100px;
 }
-.top-bg{
+.deep-orange{
     background-color:#fceae8;
     border-radius: 10px;
 }
@@ -46,4 +46,13 @@
 .card-footer{
     border: none;
     color:white;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe p{
+    color: darkblue;
+}
+footer{
+    text-align: center;
 }
