@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 .top-bg{
     background-color:#fceae8;
     border-radius: 10px;
@@ -34,4 +37,13 @@
 }
 .categories img{
     width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 14px #678a4e;
+    border-radius: 15px;
+}
+.card-footer{
+    border: none;
+    color:white;
 }
