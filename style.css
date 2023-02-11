@@ -17,3 +17,21 @@
     cursor: pointer;
 
 }
+.cat1, .cat2, .cat3{
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color:rgb(192, 13, 232);
+}
+.cat2{
+    background-color:rgb(9, 185, 50);
+}
+.cat3{
+    background-color:blue;
+}
+.categories img{
+    width: 120px;
+}
